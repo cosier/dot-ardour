@@ -27,7 +27,7 @@
     <Color name="neutral:background" value="141a1bff"/>
     <Color name="neutral:background2" value="30464bff"/>
     <Color name="neutral:backgroundest" value="f2f2f2ff"/>
-    <Color name="neutral:foreground" value="f2f2f2ff"/>
+    <Color name="neutral:foreground" value="#7f94a3"/>
     <Color name="neutral:foreground2" value="dde8deff"/>
     <Color name="neutral:foregroundest" value="1b282cff"/>
     <Color name="neutral:midground" value="dbd1d1ff"/>
